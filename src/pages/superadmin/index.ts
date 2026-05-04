@@ -1,0 +1,9 @@
+export { default as Dashboard } from './Dashboard';
+export { default as Employees } from './Employees';
+export { default as Admins } from './Admins';
+export { default as Departments } from './Departments';
+export { default as Positions } from './Positions';
+export { default as Levels } from './Levels';
+export { default as Roles } from './Roles';
+export { default as Complaints } from './Complaints';
+export { default as Profile } from './Profile';
